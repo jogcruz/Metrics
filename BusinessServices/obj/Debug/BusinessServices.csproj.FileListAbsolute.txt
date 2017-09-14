@@ -1,0 +1,7 @@
+D:\Trabajo\Metrics\Metrics\BusinessServices\bin\Debug\BusinessServices.dll
+D:\Trabajo\Metrics\Metrics\BusinessServices\bin\Debug\BusinessServices.pdb
+D:\Trabajo\Metrics\Metrics\BusinessServices\obj\Debug\BusinessServices.dll
+D:\Trabajo\Metrics\Metrics\BusinessServices\obj\Debug\BusinessServices.pdb
+D:\Trabajo\Metrics\Metrics\BusinessServices\bin\Debug\DataModels.dll
+D:\Trabajo\Metrics\Metrics\BusinessServices\bin\Debug\DataModels.pdb
+D:\Trabajo\Metrics\Metrics\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache

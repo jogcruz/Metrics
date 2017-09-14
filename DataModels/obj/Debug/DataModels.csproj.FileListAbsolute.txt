@@ -1,0 +1,4 @@
+D:\Trabajo\Metrics\Metrics\DataModels\bin\Debug\DataModels.dll
+D:\Trabajo\Metrics\Metrics\DataModels\bin\Debug\DataModels.pdb
+D:\Trabajo\Metrics\Metrics\DataModels\obj\Debug\DataModels.dll
+D:\Trabajo\Metrics\Metrics\DataModels\obj\Debug\DataModels.pdb
